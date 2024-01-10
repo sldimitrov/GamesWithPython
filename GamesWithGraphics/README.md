@@ -1,7 +1,7 @@
 * Here you will be able to search and jump into every game in the directory
 
-* A script that break the 20th most used passwords in 2023:
-➡ [Password crusher](https://github.com/sldimitrov/Projects/tree/main/UsedPassBreaker)
+* Typical game in which you should hit a red ball with a paddle until i hit you back
+➡ [Jumping Game]()
 
-* Program that allow you to register and log in and add other info (secured-data):
-➡ [User Authentication](https://github.com/sldimitrov/Projects/tree/main/UserAuthentication)
+* 2D game in which the main character is a stickman. His mission is to escape the prison:
+➡ [Stickman Prison]()

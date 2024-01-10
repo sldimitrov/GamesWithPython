@@ -5,3 +5,9 @@
 
 * 2D game in which the main character is a stickman. His mission is to escape the prison:
 ➡ [Stickman Prison](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/Stickman)
+
+* Board game that does not need a definition:
+➡ [TicTacToe](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/Stickman)
+
+* These turtles are incredible fast, but which one is going to win?
+➡ [Turtle Race](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/Stickman)

@@ -3,7 +3,7 @@
 * You think that you are good are guessing? You better really be!
 ➡ [Guess the number](https://github.com/sldimitrov/GamesWithPython/tree/main/ConsoleGames/GuessTheNumber )
 
-* Are you bored from all these exercises? Check this relaxed project:
+* Are you bored from all these exercises? Check this:
 ➡ [Random Sentence Generator](https://github.com/sldimitrov/GamesWithPython/tree/main/ConsoleGames/RandomSentenceGenerator )
 
 * A game that doesn't even need a definition:

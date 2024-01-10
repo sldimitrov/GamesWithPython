@@ -10,4 +10,4 @@
 ➡ [TicTacToe](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/TicTacToe)
 
 * These turtles are incredible fast, but which one is going to win?
-➡ [Turtle Race](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/Stickman)
+➡ [Turtle Race](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/TurtleRace)

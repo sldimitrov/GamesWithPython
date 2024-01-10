@@ -7,7 +7,7 @@
 ➡ [Stickman Prison](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/Stickman)
 
 * Board game that does not need a definition:
-➡ [TicTacToe](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/Stickman)
+➡ [TicTacToe](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/TicTacToe)
 
 * These turtles are incredible fast, but which one is going to win?
 ➡ [Turtle Race](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/Stickman)

@@ -1,13 +1,13 @@
 # Search and jump into every game in the directory!
 
-* Typical game in which you should hit a red ball with a paddle until i hit you back
-➡ [Jumping Game](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/JumpingGame)
+* You think that you are good are guessing? You better really be!
+➡ [Guess the number]()
 
-* 2D game in which the main character is a stickman. His mission is to escape the prison:
-➡ [Stickman Prison](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/Stickman)
+* Are you bored from all these exercises? Check this relaxed project:
+➡ [Random Sentence Generator]()
 
-* Board game that does not need a definition:
-➡ [TicTacToe](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/TicTacToe)
+* A game that doesn't even need a definition:
+➡ [Rock, Paper, Scissors]()
 
-* These turtles are incredible fast, but which one is going to win?
-➡ [Turtle Race](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/TurtleRace)
+* Finally, game for 2 players to play for the same PC/Laptop:
+➡ [TicTacToe]()

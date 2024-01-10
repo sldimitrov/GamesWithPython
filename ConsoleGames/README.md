@@ -9,5 +9,5 @@
 * A game that doesn't even need a definition:
 ➡ [Rock, Paper, Scissors](https://github.com/sldimitrov/GamesWithPython/tree/main/ConsoleGames/RockPaperScissors)
 
-* Finally, game for 2 players to play for the same PC/Laptop:
+* Game for 2 players to play for the same PC:
 ➡ [TicTacToe](https://github.com/sldimitrov/GamesWithPython/tree/main/ConsoleGames/TicTacToe-Console )

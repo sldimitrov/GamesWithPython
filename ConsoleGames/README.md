@@ -12,6 +12,4 @@
 * Game for 2 players to play for the same PC:
 ➡ [TicTacToe](https://github.com/sldimitrov/GamesWithPython/tree/main/ConsoleGames/TicTacToe-Console )
 
-*Expect README files of the projects SOON*
-
-*Also be tuned for more games-based-projects!*
+## Stay tuned for more games-based-projects!*

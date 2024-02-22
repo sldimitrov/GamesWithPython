@@ -12,4 +12,4 @@
 * These turtles are incredible fast, but which one is going to win?
 ➡ [Turtle Race](https://github.com/sldimitrov/GamesWithPython/tree/main/GamesWithGraphics/TurtleRace)
 
-*Also be tuned for more games-based-projects!*
+* Stay tuned for more games-based-projects!*
